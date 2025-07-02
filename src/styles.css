@@ -23,8 +23,8 @@ h2{
     padding: 0.3vw;
 }
 img{
-    max-width: 6vw;
-    max-height: 6vh;
-    border-radius: 30%;
-    object-fit:contain;
+    max-width: 4vw;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    object-fit:cover;
 }
