@@ -2,7 +2,7 @@
 body{
     margin: 0px;
 }
-html, body { height: 100%; }
+html, body { height: 100vh; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 .fredericka-the-great-regular {
   font-family: "Fredericka the Great", serif;
@@ -23,7 +23,7 @@ h2{
     padding: 0.3vw;
 }
 img{
-    max-width: 4vw;
+    max-width: 3vw;
     aspect-ratio: 1;
     border-radius: 50%;
     object-fit:cover;
