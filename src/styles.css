@@ -28,6 +28,6 @@ img{
     max-width: 6vh;
     aspect-ratio: 1;
     border-radius: 50%;
-    padding-top: 2px;
+    padding-top: 3px;
     object-fit:cover;
 }
