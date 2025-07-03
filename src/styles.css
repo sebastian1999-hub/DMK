@@ -21,8 +21,8 @@ h2{
     background-color: aliceblue;
     border-radius: 20px;
     padding: 0.3vw;
-    padding-left: 2px;
-    padding-right: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 img{
     max-width: 6vh;
