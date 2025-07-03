@@ -15,7 +15,7 @@
           "options": {
             "outputPath": "dist/torneo-rummi",
             "index": "src/index.html",
-            "baseHref": "/Drunkmikub/",
+            "baseHref": "/DMK/",
             "browser": "src/main.ts",
             "polyfills": [
               "zone.js"
